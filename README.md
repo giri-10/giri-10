@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Giridharan</h1>
-<h3 align="center">A amateur frontend developer from India</h3>
-<img align = "right" alt = "Coding" width = "400" src = [["https://www.google.com/search?q=coding+gif+&tbm=isch&ved=2ahUKEwi6qJnhtab6AhUrjNgFHYWbCu0Q2-cCegQIABAA&oq=coding+gif+&gs_lcp=CgNpbWcQAzIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgARQyw5Yyw5gpxFoAHAAeACAAZcBiAGrApIBAzAuMpgBAKABAaoBC2d3cy13aXotaW1nwAEB&sclient=img&ei=MksrY7rHCquY4t4Phbeq6A4&bih=616&biw=1280&rlz=1C1ONGR_enIN997IN997#imgrc=FK1rBj3Mpv7lmM&imgdii=3YgYOrKXGdBv9M](https://www.google.com/search?q=coding+gif+&tbm=isch&ved=2ahUKEwi6qJnhtab6AhUrjNgFHYWbCu0Q2-cCegQIABAA&oq=coding+gif+&gs_lcp=CgNpbWcQAzIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgARQyw5Yyw5gpxFoAHAAeACAAZcBiAGrApIBAzAuMpgBAKABAaoBC2d3cy13aXotaW1nwAEB&sclient=img&ei=MksrY7rHCquY4t4Phbeq6A4&bih=616&biw=1280&rlz=1C1ONGR_enIN997IN997#imgrc=MJ0GCyn3Wm5EDM&imgdii=ubF5CHIU3wdsqM)](https://i0.wp.com/ytimg.googleusercontent.com/vi/SigIbCVMTzU/maxresdefault.jpg?resize=650,400)">
+<h3 align="center">An aspiriring full stack web developer</h3>
+<img align = "right" alt = "Coding" width = "400" src = "https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=giri-10&label=Profile%20views&color=0e75b6&style=flat" alt="giri-10" /> </p>
 
