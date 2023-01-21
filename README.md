@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Giridharan</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=giri-10&label=Profile%20views&color=0e75b6&style=flat" alt="giri-10" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=giri-10&label=Profile%20views&color=0e75b6&style=flat" alt="giri-10" /> </p> -->
 
 - 🌱 I’m currently learning **Java**
 
